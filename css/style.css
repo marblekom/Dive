@@ -162,6 +162,7 @@ header .nav .caret {
 .navbar-default .navbar-nav > .open > a:focus {
   background-color:  #fff;
 }	
+
 @media (max-width:500px){
 	#naved {background-image: url(img/8.1.jpeg); background-size: 100% 100% ;}
 }	
